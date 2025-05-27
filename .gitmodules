@@ -4,3 +4,4 @@
 [submodule "rocksdb_sys/rocksdb"]
 	path = librocksdb-sys/rocksdb
 	url = https://github.com/facebook/rocksdb.git
+	branch = v10.2.1
